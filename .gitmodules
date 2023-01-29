@@ -1,0 +1,3 @@
+[submodule "other_repo/gecompat/public/MSSQL_Allerlei"]
+	path = other_repo/gecompat/public/MSSQL_Allerlei
+	url = https://github.com/gecompat/MSSQL_Allerlei.git
